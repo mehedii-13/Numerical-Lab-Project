@@ -1,0 +1,2 @@
+Newton's 3/8 Rule for Numerical Integration
+The integral value is: 23.250000

@@ -1,0 +1,8 @@
+Newton-Raphson Method for Root Finding
+Iteration 1: x = 3.33333
+Iteration 2: x = 2.26667
+Iteration 3: x = 2.01569
+Iteration 4: x = 2.00006
+Iteration 5: x = 2
+Root = 2
+Iterations = 5

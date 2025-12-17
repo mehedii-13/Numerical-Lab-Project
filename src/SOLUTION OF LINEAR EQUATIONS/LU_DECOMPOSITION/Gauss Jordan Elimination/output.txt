@@ -1,0 +1,19 @@
+
+Test case : 1...
+
+Infinitely many solutions
+
+Test case : 2...
+
+No solution
+
+Test case : 3...
+
+Solution is :
+-1.333333
+2.666667
+-1.000000
+Augmented Mstrix:
+1.000000 0.000000 0.000000 -1.333333
+0.000000 1.000000 0.000000 2.666667
+0.000000 0.000000 1.000000 -1.000000

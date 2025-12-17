@@ -1,0 +1,19 @@
+Test Case : 1...
+
+Invalid initial guesses. f(a) and f(b) must have opposite signs.
+
+Test Case : 2...
+
+Invalid initial guesses. f(a) and f(b) must have opposite signs.
+
+Test Case : 3...
+
+ Iteration              a              b              c                f(c)
+         1       0.000000       2.000000       0.750000            3.691406
+         2       0.750000       2.000000       0.996865            0.050117
+         3       0.996865       2.000000       1.000206           -0.003291
+         4       0.996865       1.000206       1.000000            0.000003
+
+Root is approximately: 1.000000
+Total iterations: 4
+

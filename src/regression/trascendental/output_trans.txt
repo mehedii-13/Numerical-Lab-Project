@@ -1,0 +1,6 @@
+
+Calculated Parameters:
+p = 99.9968  q = -5.00041
+Equation: y = 99.9968 + -5.00041e^(z/4)
+
+Enter z to predict: Estimated y: 91.7525

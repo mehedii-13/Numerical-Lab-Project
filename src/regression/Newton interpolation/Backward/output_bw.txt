@@ -1,0 +1,1 @@
+Interpolated value at x = 4.5 is: 20.25

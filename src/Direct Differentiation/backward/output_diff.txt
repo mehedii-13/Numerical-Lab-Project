@@ -1,0 +1,2 @@
+Point p: 1.8
+First Derivative: 113.374080

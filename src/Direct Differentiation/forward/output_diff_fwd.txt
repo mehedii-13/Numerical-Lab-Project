@@ -1,0 +1,2 @@
+Point p: 0.5
+First Derivative: 0.500000

@@ -11,7 +11,7 @@
 ---
 
 # Table of Contents
-<img width="1347" height="782" alt="image" src="https://github.com/user-attachments/assets/45ad1e0e-ae3a-4779-87f8-93d1da7aa9de" />
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/117b9121-8056-4336-9f78-d5cdd4caf079" />
 
 
 - [Solution of Linear Equations](#solution-of-linear-equations)

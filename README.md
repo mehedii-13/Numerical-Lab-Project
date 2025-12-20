@@ -327,7 +327,6 @@ int32_t main()
     }
 }
 ```
-[Open Gauss_Elimination.cpp](./src/SOLUTION%20OF%20LINEAR%20EQUATIONS/GAUSS_ELIMINATION/Gauss_Elimination.cpp)
 
 #### <a name="gauss-elimination-input"></a>Input
 ```
@@ -359,7 +358,6 @@ int32_t main()
 2
 4
 ```
-[Open input.txt](./src/SOLUTION%20OF%20LINEAR%20EQUATIONS/GAUSS_ELIMINATION/input.txt)
 
 #### <a name="gauss-elimination-output"></a>Output
 ```
@@ -383,7 +381,6 @@ Augmented Mstrix:
 0.000000 0.857143 1.857143 0.428571
 0.000000 0.000000 0.500000 -0.500000
 ```
-[Open output.txt](./src/SOLUTION%20OF%20LINEAR%20EQUATIONS/GAUSS_ELIMINATION/output.txt)
 
 ---
 
@@ -588,8 +585,6 @@ int32_t main()
     }
 }
 ```
-[Open Gauss_Jordan.cpp](./src/SOLUTION%20OF%20LINEAR%20EQUATIONS/GAUSS_JORDAN/Gauss_Jordan.cpp)
-
 #### <a name="gauss-jordan-input"></a>Input
 ```
 3
@@ -620,7 +615,6 @@ int32_t main()
 2
 4
 ```
-[Open input.txt](./src/SOLUTION%20OF%20LINEAR%20EQUATIONS/GAUSS_JORDAN/input.txt)
 
 #### <a name="gauss-jordan-output"></a>Output
 ```
@@ -644,7 +638,6 @@ Augmented Mstrix:
 0.000000 1.000000 0.000000 2.666667
 0.000000 0.000000 1.000000 -1.000000
 ```
-[Open output.txt](./src/SOLUTION%20OF%20LINEAR%20EQUATIONS/GAUSS_JORDAN/output.txt)
 
 ---
 
@@ -836,7 +829,6 @@ int main() {
 }
 
 ```
-[Open LU_DECOMPOSITION.cpp](./src/SOLUTION%20OF%20LINEAR%20EQUATIONS/LU_DECOMPOSITION/LU_DECOMPOSITION/LU_DECOMPOSITION.cpp)
 
 #### <a name="lu-decomposition-input"></a>Input
 ```
@@ -858,7 +850,6 @@ int main() {
 
 
 ```
-[Open input.txt](./src/SOLUTION%20OF%20LINEAR%20EQUATIONS/LU_DECOMPOSITION/input.txt)
 
 #### <a name="lu-decomposition-output"></a>Output
 ```
@@ -1002,7 +993,6 @@ Current state of U matrix:
 
 Determinant = 0 → No unique solution (infinite or none).
 ```
-[Open output.txt](./src/SOLUTION%20OF%20LINEAR%20EQUATIONS/LU_DECOMPOSITION/output. txt)
 
 ---
 
@@ -1198,7 +1188,6 @@ int main() {
     return 0;
 }
 ```
-[Open Matrix_Inversion.cpp](./src/SOLUTION%20OF%20LINEAR%20EQUATIONS/MATRIX_INVERSION/Matrix_Inversion. cpp)
 
 #### <a name="matrix-inversion-input"></a>Input
 ```
@@ -1226,7 +1215,6 @@ int main() {
 
 
 ```
-[Open input.txt](./src/SOLUTION%20OF%20LINEAR%20EQUATIONS/MATRIX_INVERSION/input.txt)
 
 #### <a name="matrix-inversion-output"></a>Output
 ```
@@ -1256,8 +1244,6 @@ Test Case : 3...
 
 Matrix is singular so No inverse exists.
 ```
-[Open output.txt](./src/SOLUTION%20OF%20LINEAR%20EQUATIONS/MATRIX_INVERSION/output. txt)
-
 ---
 
 ## Solution of Non-Linear Equations
@@ -1441,7 +1427,6 @@ int main() {
     }
 }  
 ```
-[Open Bisection.cpp](./src/SOLUTION%20OF%20NON%20LINEAR%20EQUATIONS/BISECTION/Bisection.cpp)
 
 #### <a name="bisection-input"></a>Input
 ```
@@ -1449,7 +1434,6 @@ int main() {
 1 -4 -1 4
 -2 5
 ```
-[Open input.txt](./src/SOLUTION%20OF%20NON%20LINEAR%20EQUATIONS/BISECTION/input.txt)
 
 #### <a name="bisection-output"></a>Output
 ```
@@ -1460,7 +1444,6 @@ Found 3 root(s):
 4.000000
 
 ```
-[Open output.txt](./src/SOLUTION%20OF%20NON%20LINEAR%20EQUATIONS/BISECTION/output.txt)
 
 ---
 
@@ -1649,7 +1632,6 @@ int main() {
     return 0;
 }
 ```
-[Open False_Position.cpp](./src/SOLUTION%20OF%20NON%20LINEAR%20EQUATIONS/FALSE_POSITION/False_Position.cpp)
 
 #### <a name="false-position-input"></a>Input
 ```
@@ -1673,7 +1655,6 @@ int main() {
 0.00001
 
 ```
-[Open input.txt](./src/SOLUTION%20OF%20NON%20LINEAR%20EQUATIONS/FALSE_POSITION/input.txt)
 
 #### <a name="false-position-output"></a>Output
 ```
@@ -1697,7 +1678,6 @@ Root is approximately: 1.000000
 Total iterations: 4
 
 ```
-[Open output.txt](./src/SOLUTION%20OF%20NON%20LINEAR%20EQUATIONS/FALSE_POSITION/output.txt)
 
 ---
 
@@ -1897,7 +1877,6 @@ int main() {
     return 0;
 }
 ```
-[Open Newton_Raphson.cpp](./src/SOLUTION%20OF%20NON%20LINEAR%20EQUATIONS/Newto-Raphson/Newton_Raphson.cpp)
 
 #### <a name="newton-raphson-input"></a>Input
 ```
@@ -1905,7 +1884,6 @@ int main() {
 1 0 -4
 6 0.0001 10
 ```
-[Open input_nr.txt](./src/SOLUTION%20OF%20NON%20LINEAR%20EQUATIONS/Newto-Raphson/input_nr.txt)
 
 #### <a name="newton-raphson-output"></a>Output
 ```
@@ -1918,7 +1896,6 @@ Iteration 5: x = 2
 Root = 2
 Iterations = 5
 ```
-[Open output_nr.txt](./src/SOLUTION%20OF%20NON%20LINEAR%20EQUATIONS/Newto-Raphson/output_nr.txt)
 
 ---
 
@@ -2062,7 +2039,6 @@ int main() {
     return 0;
 }
 ```
-[Open Secant.cpp](./src/SOLUTION%20OF%20NON%20LINEAR%20EQUATIONS/SECANT_METHOD/Secant.cpp)
 
 #### <a name="secant-input"></a>Input
 ```
@@ -2070,14 +2046,12 @@ int main() {
 1 0 -3
 -2 2
 ```
-[Open input_sec.txt](./src/SOLUTION%20OF%20NON%20LINEAR%20EQUATIONS/SECANT_METHOD/input_sec.txt)
 
 #### <a name="secant-output"></a>Output
 ```
 -1.731429
 1.731429
 ```
-[Open output_sec.txt](./src/SOLUTION%20OF%20NON%20LINEAR%20EQUATIONS/SECANT_METHOD/output_sec.txt)
 
 ---
 
@@ -2226,7 +2200,6 @@ int main() {
 }
 
 ```
-[Open newton_forward.cpp](./src/Newton%20interpolation/Forward/newton_forward.cpp)
 
 #### <a name="forward-interpolation-input"></a>Input
 ```
@@ -2235,13 +2208,11 @@ int main() {
 1 4 9 16 25
 1.5
 ```
-[Open input_fw.txt](./src/Newton%20interpolation/Forward/input_fw.txt)
 
 #### <a name="forward-interpolation-output"></a>Output
 ```
 Interpolated value at x = 1.5 is: 2.25
 ```
-[Open output_fw.txt](./src/Newton%20interpolation/Forward/output_fw. txt)
 
 ---
 
@@ -2388,7 +2359,6 @@ int main() {
     return 0;
 }
 ```
-[Open newton_backward.cpp](./src/Newton%20interpolation/Backward/newton_backward.cpp)
 
 #### <a name="backward-interpolation-input"></a>Input
 ```
@@ -2397,13 +2367,11 @@ int main() {
 1 4 9 16 25
 4.5
 ```
-[Open input_bw.txt](./src/Newton%20interpolation/Backward/input_bw.txt)
 
 #### <a name="backward-interpolation-output"></a>Output
 ```
 Interpolated value at x = 4.5 is: 20.25
 ```
-[Open output_bw. txt](./src/Newton%20interpolation/Backward/output_bw.txt)
 
 ---
 
@@ -2580,7 +2548,6 @@ int main() {
     return 0;
 }
 ```
-[Open div. cpp](./src/Newton%20interpolation/divided%20difference/div.cpp)
 
 #### <a name="divided-difference-input"></a>Input
 ```
@@ -2589,7 +2556,6 @@ int main() {
 0 1 4
 1.5
 ```
-[Open input_div.txt](./src/Newton%20interpolation/divided%20difference/input_div.txt)
 
 #### <a name="divided-difference-output"></a>Output
 ```
@@ -2608,7 +2574,6 @@ Interpolation: 2.2500
 Truncation error: 0.7500
 
 ```
-[Open output_div.txt](./src/Newton%20interpolation/divided%20difference/output_div.txt)
 
 ---
 
@@ -2739,7 +2704,6 @@ int main() {
     return 0;
 }
 ```
-[Open linear. cpp](./src/Curve%20Fitting/regression/Linear/linear.cpp)
 
 #### <a name="linear-regression-input"></a>Input
 ```
@@ -2747,7 +2711,6 @@ int main() {
 1 2 3 4
 3 5 7 9
 ```
-[Open input_lin.txt](./src/Curve%20Fitting/regression/Linear/input_lin.txt)
 
 #### <a name="linear-regression-output"></a>Output
 ```
@@ -2764,7 +2727,6 @@ sum x(square) = 30
 
 Regression Line: y = 1 + 2x
 ```
-[Open output_lin.txt](./src/Curve%20Fitting/regression/Linear/output_lin.txt)
 
 ---
 
@@ -2963,7 +2925,6 @@ int main() {
     return 0;
 }
 ```
-[Open polynomial.cpp](./src/Curve%20Fitting/regression/polynomial/polynomial.cpp)
 
 #### <a name="polynomial-regression-input"></a>Input
 ```
@@ -2972,7 +2933,6 @@ int main() {
 2 3 4
 1
 ```
-[Open input_pol.txt](./src/Curve%20Fitting/regression/polynomial/input_pol.txt)
 
 #### <a name="polynomial-regression-output"></a>Output
 ```
@@ -2986,7 +2946,6 @@ sum	6	9	6	9
 Polynomial Regression Equation:
 y = 1.0000 + 1.0000x^1
 ```
-[Open output_pol.txt](./src/Curve%20Fitting/regression/polynomial/output_pol.txt)
 
 ---
 
@@ -3139,7 +3098,6 @@ int main(){
 }
  
 ```
-[Open regression_transcendental.cpp](./src/Curve%20Fitting/regression/trascendental/regression_transcendental.cpp)
 
 #### <a name="transcendental-regression-input"></a>Input
 ```
@@ -3149,7 +3107,6 @@ int main(){
 10 39.08
 2
 ```
-[Open input_trans.txt](./src/Curve%20Fitting/regression/trascendental/input_trans.txt)
 
 #### <a name="transcendental-regression-output"></a>Output
 ```
@@ -3160,7 +3117,6 @@ Equation: y = 99.9968 + -5.00041e^(z/4)
 
 Enter z to predict: Estimated y: 91.7525
 ```
-[Open output_trans.txt](./src/Curve%20Fitting/regression/trascendental/output_trans.txt)
 
 ---
 
@@ -3302,7 +3258,6 @@ int main() {
     return 0;
 }  
 ```
-[Open one_third.cpp](./src/NUMERICAL_INTEGRATION/ONE_THIRD_RULE/one%20_third. cpp)
 
 #### <a name="simpsons-13-input"></a>Input
 ```
@@ -3311,14 +3266,12 @@ int main() {
 0 2
 4
 ```
-[Open input1_3.txt](./src/NUMERICAL_INTEGRATION/ONE_THIRD_RULE/input1_3.txt)
 
 #### <a name="simpsons-13-output"></a>Output
 ```
 Simpson's 1/3 Rule Integration
 Integration value: 2.666667
 ```
-[Open output1_3.txt](./src/NUMERICAL_INTEGRATION/ONE_THIRD_RULE/output1_3.txt)
 
 ---
 
@@ -3465,7 +3418,6 @@ int main() {
     return 0;
 }
 ```
-[Open newton3_8.cpp](./src/NUMERICAL_INTEGRATION/THREE_EIGHT_RULE/newton3_8.cpp)
 
 #### <a name="simpsons-38-input"></a>Input
 ```
@@ -3474,14 +3426,12 @@ int main() {
 0 3
 6
 ```
-[Open input_3_8.txt](./src/NUMERICAL_INTEGRATION/THREE_EIGHT_RULE/input_3_8.txt)
 
 #### <a name="simpsons-38-output"></a>Output
 ```
 Newton's 3/8 Rule for Numerical Integration
 The integral value is: 23.250000
 ```
-[Open output_3_8.txt](./src/NUMERICAL_INTEGRATION/THREE_EIGHT_RULE/output_3_8.txt)
 
 ---
 
@@ -3650,7 +3600,6 @@ int main() {
     return 0;
 }
 ```
-[Open Differentiation_FI.cpp](./src/Direct%20Differentiation/forward/Differentiation_FI.cpp)
 
 #### <a name="forward-differentiation-input"></a>Input
 ```
@@ -3658,14 +3607,12 @@ int main() {
 1 0 0 0 0
 0 2 100 0.5
 ```
-[Open input_diff_fwd.txt](./src/Direct%20Differentiation/forward/input_diff_fwd.txt)
 
 #### <a name="forward-differentiation-output"></a>Output
 ```
 Point p: 0.5
 First Derivative: 0.500000
 ```
-[Open output_diff_fwd. txt](./src/Direct%20Differentiation/forward/output_diff_fwd.txt)
 
 ---
 
@@ -3824,7 +3771,6 @@ int main() {
     return 0;
 }
 ```
-[Open differentiation_BI.cpp](./src/Direct%20Differentiation/backward/differentiation_BI.cpp)
 
 #### <a name="backward-differentiation-input"></a>Input
 ```
@@ -3832,14 +3778,12 @@ int main() {
 1 0 0 0 0 0 0
 0 2 20 1.8
 ```
-[Open input_diff. txt](./src/Direct%20Differentiation/backward/input_diff.txt)
 
 #### <a name="backward-differentiation-output"></a>Output
 ```
 Point p: 1.8
 First Derivative: 113.374080
 ```
-[Open output_diff.txt](./src/Direct%20Differentiation/backward/output_diff.txt)
 
 ---
 
@@ -4016,7 +3960,6 @@ int main() {
     return 0;
 }
 ```
-[Open RungeKutta4th.cpp](./src/SOLUTION%20OF%20DIFFERENTIAL%20EQUATIONS/Runge%20Kutta/RungeKutta4th.cpp)
 
 #### <a name="runge-kutta-input"></a>Input
 ```
@@ -4028,7 +3971,6 @@ int main() {
 4 -3 0
 1 1 3 0.4
 ```
-[Open input. txt](./src/SOLUTION%20OF%20DIFFERENTIAL%20EQUATIONS/Runge%20Kutta/input.txt)
 
 #### <a name="runge-kutta-output"></a>Output
 ```
@@ -4056,7 +3998,6 @@ Step	 x	 y
 
 Final value: y(3.000000) = 27.000000
 ```
-[Open output.txt](./src/SOLUTION%20OF%20DIFFERENTIAL%20EQUATIONS/Runge%20Kutta/output.txt)
 
 ---
 
